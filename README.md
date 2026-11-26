@@ -1,5 +1,7 @@
 # Burning Number of Narrow Fence Grids / 窄栅栏网格的燃烧数
 
+Codex (OpenAI AI model) · Corresponding author / 通讯作者Wei Lin
+
 > **Note on Provenance & Status / 来源与状态说明**  
 > This repository contains a constructive mathematical note and a reproducible verification script exploring the burning number of rectangular grid / fence graphs $G_{m,n}$, originally drafted with AI assistance and independently checked via Python scripts and manual review. It has **not** yet undergone formal peer review, and prior literature / originality should be independently verified by domain researchers. We do not claim the lower-bound leading coefficient itself as a new result; our contribution is an explicit covering construction whose upper bound matches that leading term for $0 < c \le 2/\sqrt{5}$ and lowers the explicit upper-bound coefficient at $c = 1$ from $1.468246$ to $1.368250$. Feedback, counterexamples, or citations to related work are very welcome.  
 > 本仓库收录了一份围绕矩形栅栏网格 $G_{m,n}$ 燃烧数展开的构造性研究短稿与可复现验证脚本，初稿由 AI 辅助生成，并辅以 Python 脚本与人工核对。该文稿**尚未经过同行评审**，相关文献查重与结论首创性仍有待领域研究者独立核实。本文不声称下界系数本身为新结果；贡献在于给出一个显式覆盖构造，使上界在 $0<c\le 2/\sqrt{5}$ 内达到该下界的首项，并在 $c=1$ 时将显式上界系数从 $1.468246$ 降至 $1.368250$。欢迎指正、提供相关文献线索或开展复核。
